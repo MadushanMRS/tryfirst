@@ -1,6 +1,6 @@
 # Fundamentals of Observability
 
-This repository serves as a comprehensive guide to understanding the fundamentals of observability, based on the concepts discussed in the YouTube video [Fundamentals of Observability](https://youtu.be/otY2_M_pTmU?list=PLdpzxOOAlwvJUIfwmmVDoPYqXXUNbdBmb). The goal is to provide a self-contained learning experience.
+This repository serves as a comprehensive guide to understanding the fundamentals of observability, based on the concepts discussed in the YouTube video The goal is to provide a self-contained learning experience.
 
 ---
 
